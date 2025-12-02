@@ -1,14 +1,14 @@
-<?php
 /**
- * Plugin Name: Spoiled Paws — Mom-dashboard
- * Description: Dog coat try-on viewer with silhouettes & coat overlays.
- * Version: 1.0.0
+ * Plugin Name: Spoiled Paws — Mom Dashboard
+ * Plugin URI: https://github.com/Frdrew/spoiled-paws-mom-dashboard
+ * Description: Dashboard for managing orders.
  * Author: Spoiled Paws
+ * Version: 1.0.0
  *
- * GitHub Plugin URI: https://github.com/Frdrew/spoiled-paws
- * GitHub Branch: main
+ * GitHub Plugin URI: Frdrew/spoiled-paws-mom-dashboard
  * Primary Branch: main
  */
+
 
 
 if (!defined('ABSPATH')) exit;
