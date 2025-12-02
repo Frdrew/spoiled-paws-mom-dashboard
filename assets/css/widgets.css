@@ -1,0 +1,21 @@
+/* =====================
+   MINI WIDGET CARDS
+===================== */
+
+.mom-widget {
+    padding: 1rem;
+    background: #fafafa;
+    border-radius: 8px;
+    border: 1px solid #eee;
+}
+
+.mom-widget-title {
+    font-size: .95rem;
+    font-weight: 600;
+    margin-bottom: .25rem;
+}
+
+.mom-metric {
+    font-size: 1.65rem;
+    font-weight: 700;
+}

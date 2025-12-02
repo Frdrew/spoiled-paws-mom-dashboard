@@ -1,0 +1,11 @@
+/* =====================
+   CHART OBJECT BORDER
+===================== */
+
+.mom-chart {
+    height: 220px;
+    border-radius: 8px;
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 1rem;
+}

@@ -1,0 +1,26 @@
+/* ====================
+   GLOBAL GRID & SPACE
+==================== */
+
+.container {
+    width: min(1100px, 95%);
+    margin: 0 auto;
+}
+
+.grid-2 {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-3 {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+@media (max-width: 780px) {
+    .grid-2, .grid-3 {
+        grid-template-columns: 1fr;
+    }
+}
