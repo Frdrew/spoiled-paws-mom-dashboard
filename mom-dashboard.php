@@ -1,12 +1,12 @@
-<?php
-/**
- * Plugin Name: Spoiled Paws – Mom Dashboard
- * Description: Internal dashboard for Donna: orders, messages, stats + simplified admin.
+/*
+ * Plugin Name: Spoiled Paws Mom Dashboard
+ * Description: Admin dashboard for Spoiled Paws operations.
  * Version: 1.0.0
  * Author: Spoiled Paws
  * GitHub Plugin URI: Frdrew/spoiled-paws-mom-dashboard
- * GitHub Branch: main
+ * Primary Branch: main
  */
+
 
 if (!defined('ABSPATH')) exit;
 
